@@ -1,0 +1,12 @@
+{
+  "resourceName": "IPList",
+  "tableName": "IPList",
+  "partitionKey": {
+    "fieldName": "IP",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": [
+    "IPListTrigger0ba3296d"
+  ]
+}

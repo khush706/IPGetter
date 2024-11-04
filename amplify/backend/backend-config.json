@@ -1,0 +1,10 @@
+{
+  "api": {},
+  "function": {},
+  "storage": {
+    "IPList": {
+      "providerPlugin": "awscloudformation",
+      "service": "DynamoDB"
+    }
+  }
+}
